@@ -1,4 +1,6 @@
 # SugarKnight
 Side Scroller
-##Dylan
-##Jacob
+
+Crated by:
+Dylan
+Jacob
