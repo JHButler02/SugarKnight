@@ -1,4 +1,4 @@
 # SugarKnight
 Side Scroller
-*Dylan
-*Jacob
+##Dylan
+##Jacob
